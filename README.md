@@ -1,4 +1,4 @@
-# Create-a-responsive-seat-selector-UI-in-HTML-CSS-and-JS
+## Build--Website-using-an-API-with-HTML-JavaScript-and-JSON
 
 ## Get Started
 
